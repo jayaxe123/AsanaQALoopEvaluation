@@ -1,6 +1,6 @@
 # Project Automation with Playwright 🚀
 
-This repository contains an end-to-end test automation framework built using **TypeScript** and **Playwright**. The framework is designed to test and verify projects and tasks in a project management application.
+This repository contains an end-to-end test automation framework built using **TypeScript** and **Playwright**. The framework is designed to test and verify projects and tasks in Asana project management application.
 
 ## Features
 - **Dynamic Test Generation**: Each project verification is treated as an individual test case.
